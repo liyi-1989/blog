@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Mathematics (Statistics)"
   institution = "Northeastern University"
-  year = 2018 (expected)
+  year = 2018
 
 [[education.courses]]
   course = "MSc in Mathematics (Operations Research)"

@@ -1,1 +1,25 @@
-[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "2"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git status[0K[?25h[?25l$ git add .[0K[?25h
+[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "2"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git status[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "2"[0K[?25h[19G[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "3"[0K[19G[?25h[?25l
+[0K[?25h[master[0K[9G[?25l[master e5bc749] 3[0K
+ 10 files changed, 87 insertions(+), 152 deletions(-)[0K
+ rewrite .Rproj.user/2870A8C6/console06/C4501520 (100%)[0K
+ rewrite content/home/about.md (73%)[0K
+ create mode 100644 static/img/pic.png[0K
+ rename static/img/{portrait.jpg => portraits.jpg} (100%)[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "3"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 21, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects: 100% (21/21), done.[0K
+[0K[?25hWriting objects: 100% (21/21), 103.74 KiB | 0 bytes/s, done.[0K[?25l
+Total 21 (delta 7), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas:  57% (4/7)[0K[40G[?25lremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[0K
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   d76579b..e5bc749  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "3"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h
