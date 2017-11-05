@@ -128,4 +128,24 @@ Total 10 (delta 5), reused 0 (delta 0)[0K
    0264f1c..2687404  master -> master[0K
 [0K[?25h[?25l
 [0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "some bug"[0K[?25h[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "some bug"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "some bug"[0K[?25h[26G[25G[26G[?25l$ git commit -m "some bu"[0K[25G[?25h[?25l$ git commit -m "some b"[0K[24G[?25h[?25l$ git commit -m "some "[0K[23G[?25h[?25l$ git commit -m "some"[0K[22G[?25h[?25l$ git commit -m "som"[0K[21G[?25h[?25l$ git commit -m "so"[0K[20G[?25h[?25l$ git commit -m "s"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "a"[0K[19G[?25h[?25l$ git commit -m "ad"[0K[20G[?25h[?25l$ git commit -m "add"[0K[21G[?25h[?25l$ git commit -m "add "[0K[22G[?25h[?25l$ git commit -m "add t"[0K[23G[?25h[?25l$ git commit -m "add ta"[0K[24G[?25h[?25l$ git commit -m "add tal"[0K[25G[?25h[?25l$ git commit -m "add talk"[0K[26G[?25h[?25l
+[0K[?25h[master[0K[9G[?25l[master b9a9e4f] add talk[0K
+ 3 files changed, 61 insertions(+), 42 deletions(-)[0K
+ rename content/talk/{example-talk.md => acml2017.md} (58%)[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "add talk"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 12, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (11/11), done.[0K
+Writing objects: 100% (12/12), 1.70 KiB | 0 bytes/s, done.[0K
+Total 12 (delta 4), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  75% (3/4)[0K[1G[?25hremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[0K[?25l
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   2687404..b9a9e4f  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add talk"[0K[?25h[?25l$ git add .[0K[?25h
