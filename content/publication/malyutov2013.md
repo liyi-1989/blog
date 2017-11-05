@@ -1,6 +1,6 @@
 +++
 title = "Time series homogeneity tests via VLMC training"
-date = "2013"
+date = "2013-12-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mikhail Malioutov", "Tong Zhang", "Yi Li", "Xin Li" ]

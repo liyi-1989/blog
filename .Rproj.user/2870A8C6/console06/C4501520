@@ -71,4 +71,23 @@ Total 10 (delta 5), reused 0 (delta 0)[0K
    7dfd86f..4fcdf30  master -> master[0K
 [0K[?25h[?25l
 [0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "abstract no newline"[0K[?25h[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "abstract no newline"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "abstract no newline"[0K[?25h[37G[?25l$ git commit -m "abstract no newline2"[0K[38G[?25h[?25l
+[0K[?25h[master[0K[9G[?25l[master e1fa6f1] abstract no newline2[0K
+ 2 files changed, 20 insertions(+), 4 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "abstract no newline2"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 9, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (9/9), done.[0K
+Writing objects: 100% (9/9), 1.24 KiB | 0 bytes/s, done.[0K
+Total 9 (delta 4), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[0K[?25l
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   4fcdf30..e1fa6f1  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "abstract no newline2"[0K[?25h[?25l$ git add .[0K[?25h
