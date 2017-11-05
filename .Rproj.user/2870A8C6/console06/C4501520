@@ -109,4 +109,23 @@ Total 10 (delta 5), reused 0 (delta 0)[0K
    e1fa6f1..0264f1c  master -> master[0K
 [0K[?25h[?25l
 [0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "date format"[0K[?25h[?25l$ git add .[0K[1G[?25h[12G
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "date format"[0K[?25h[?25l$ git add .[0K[1G[?25h[12G[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "date format"[0K[?25h[29G[?25l$ git commit -m "date forma"[0K[28G[?25h[?25l$ git commit -m "date form"[0K[27G[?25h[?25l$ git commit -m "date for"[0K[26G[?25h[?25l$ git commit -m "date fo"[0K[25G[?25h[?25l$ git commit -m "date f"[0K[24G[?25h[?25l$ git commit -m "date "[0K[23G[?25h[?25l$ git commit -m "date"[0K[22G[?25h[?25l$ git commit -m "dat"[0K[21G[?25h[?25l$ git commit -m "da"[0K[20G[?25h[?25l$ git commit -m "d"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "[0K[?25h[17G[?25l$ git commit -m ""[0K[17G[?25h[18G[?25l$ git commit -m "s"[0K[19G[?25h[?25l$ git commit -m "so"[0K[20G[?25h[?25l$ git commit -m "som"[0K[21G[?25h[?25l$ git commit -m "some"[0K[22G[?25h[?25l$ git commit -m "some "[0K[23G[?25h[?25l$ git commit -m "some b"[0K[24G[?25h[?25l$ git commit -m "some bu"[0K[25G[?25h[?25l$ git commit -m "some bug"[0K[?25h[26G[?25l
+[0K[?25h[master[0K[9G[?25l[master 2687404] some bug[0K
+ 3 files changed, 25 insertions(+), 9 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "some bug"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 10, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects: 100% (10/10), done.[0K
+Writing objects: 100% (10/10), 1.23 KiB | 0 bytes/s, done.[0K
+Total 10 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   0264f1c..2687404  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "some bug"[0K[?25h[?25l$ git add .[0K[?25h
