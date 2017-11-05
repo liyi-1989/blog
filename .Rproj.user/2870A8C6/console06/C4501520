@@ -211,4 +211,27 @@ Total 17 (delta 7), reused 0 (delta 0)[0K
    d45b39c..d5caef1  master -> master[0K
 [0K[?25h[?25l
 [0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add post"[0K[?25h[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add post"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add post"[0K[?25h[26G[?25l$ git commit -m "add posts"[0K[27G[?25h[?25l
+[0K[?25h[master[0K[9G[?25l[master d3ccea6] add posts[0K
+[0K[?25h 6 files changed, 49 insertions(+), 160 deletions(-)[0K[?25l
+ rename content/post/{2017-11-05-new-post.Rmd => 2017-11-05-new-post.Rmarkdown} (83%)[0K
+ delete mode 100644 content/post/2017-11-05-new-post.html[0K
+ create mode 100644 content/post/2017-11-05-new-post.markdown[0K
+ create mode 100644 content/post/figure/unnamed-chunk-1-1.png[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "add posts"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 15, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects: 100% (13/13), done.[0K
+Writing objects: 100% (15/15), 2.96 KiB | 0 bytes/s, done.[0K
+Total 15 (delta 6), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (6/6), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   d5caef1..d3ccea6  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add posts"[0K[?25h[?25l$ git add .[0K[1G[?25h[12G
