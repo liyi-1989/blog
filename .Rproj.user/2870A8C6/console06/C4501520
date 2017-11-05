@@ -255,4 +255,24 @@ Total 15 (delta 5), reused 0 (delta 0)[0K
    d3ccea6..e81af9f  master -> master[0K
 [0K[?25h[?25l
 [0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[3G[?25h[25G[?25l$ git commit -m "add posts2"[0K[?25h[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ git push origin master[0K[3G[?25h[25G[?25l$ git commit -m "add posts2"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add posts2"[0K[?25h[28G[?25l$ git commit -m "add posts"[0K[27G[?25h[?25l$ git commit -m "add posts3"[0K[28G[?25h[?25l
+[0K[?25h[master[0K[9G[?25l[master f8725bd] add posts3[0K
+ 2 files changed, 22 insertions(+), 1 deletion(-)[0K
+ rename content/post/{2017-11-05-new-post.markdown => 2017-11-05-new-post.md} (100%)[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "add posts3"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 8, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (8/8), done.[0K
+Writing objects: 100% (8/8), 908 bytes | 0 bytes/s, done.[0K
+Total 8 (delta 4), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[0K[?25l
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   e81af9f..f8725bd  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add posts3"[0K[?25h[?25l$ git add .[0K[?25h
