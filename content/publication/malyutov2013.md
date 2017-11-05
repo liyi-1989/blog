@@ -33,7 +33,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+#projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = "http://www.jip.ru/2013/401-414-2013.pdf"
@@ -60,4 +60,3 @@ caption = ""
 
 +++
 
-#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
