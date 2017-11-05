@@ -1,0 +1,18 @@
+---
+title: new post
+author: Yi Li
+date: '2017-11-05'
+slug: new-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+**Hi**
+
+```{r}
+plot(1:10,1:10)
+```
+
+

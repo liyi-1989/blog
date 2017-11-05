@@ -189,4 +189,26 @@ Total 12 (delta 5), reused 0 (delta 0)[0K
    9249a63..d45b39c  master -> master[0K
 [0K[?25h[?25l
 [0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add project"[0K[?25h[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add project"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add project"[0K[?25h[29G[?25l$ git commit -m "add projec"[0K[28G[?25h[?25l$ git commit -m "add proje"[0K[27G[?25h[?25l$ git commit -m "add proj"[0K[26G[?25h[?25l$ git commit -m "add pro"[0K[25G[?25h[?25l$ git commit -m "add pr"[0K[24G[?25h[?25l$ git commit -m "add p"[0K[23G[?25h[?25l$ git commit -m "add "[0K[22G[?25h[?25l$ git commit -m "add p"[0K[23G[?25h[?25l$ git commit -m "add po"[0K[24G[?25h[?25l$ git commit -m "add pos"[0K[25G[?25h[?25l$ git commit -m "add post"[0K[?25h[26G[?25l
+[0K[?25h[master[0K[9G[?25l[master d5caef1] add post[0K
+ 7 files changed, 455 insertions(+), 69 deletions(-)[0K
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html[0K
+ create mode 100644 content/post/2017-11-05-new-post.Rmd[0K
+ create mode 100644 content/post/2017-11-05-new-post.html[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "add post"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 17, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects: 100% (16/16), done.[0K
+Writing objects:  82% (14/17)[0K[1G[?25hWriting objects: 100% (17/17), 241.10 KiB | 0 bytes/s, done.[0K[?25l
+Total 17 (delta 7), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (7/7), completed with 6 local objects.[0K[?25l
+[0K[?25hTo https://github.com/liyi-1989/blog.git[0K[?25l
+   d45b39c..d5caef1  master -> master[0K
+[0K[?25h[?25l
+[0;32mliyi@LAPTOP-UKQF6VCI [0;35m [0;33m/d/works/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add post"[0K[?25h[?25l$ git add .[0K[?25h
