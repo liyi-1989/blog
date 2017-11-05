@@ -16,7 +16,7 @@ image_preview = "bubbles.jpg"
 tags = ["CyberSEES"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1442728&HistoricalAwards=false"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
